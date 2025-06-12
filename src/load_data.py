@@ -1,8 +1,6 @@
-
-# src/data_loader.py
 import pandas as pd
 
-class DataLoader:
+class Loaddata:
     def __init__(self, file_path, separator='|'):
         self.file_path = file_path
         self.separator = separator
@@ -20,6 +18,7 @@ class DataLoader:
 
     def basic_info(self):
         if self.data is not None:
-            return self.data.info()
+            print(self.data.info())
+            print(self.data.describe())
         else:
             print("Data is not loaded. Please load the data first.")
