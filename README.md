@@ -1,2 +1,12 @@
-# -Insurance_Risk-_Analytics_-_Predictive_Modeling
-End-to-end risk analytics &amp; predictive modeling project for car insurance optimization using real claims data.
+# Insurance Claims Data Exploration and Predictive Insights
+
+This project explores and models insurance claims data to uncover actionable insights. The workflow includes data validation, preprocessing, exploratory analysis, hypothesis testing, and predictive modeling. The goal is to enhance decision-making in marketing, improve client acquisition strategies, and support the design of more effective insurance products.
+
+
+
+
+
+
+
+
+
