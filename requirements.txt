@@ -4,3 +4,5 @@ seaborn
 matplotlib.pyplot 
 sys
 os
+scipy 
+scipy statsmodels
